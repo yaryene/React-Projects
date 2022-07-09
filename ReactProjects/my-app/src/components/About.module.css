@@ -1,0 +1,21 @@
+.about {
+    background-color: #f5f5f5;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 0 25px 23px 25px;
+}
+.header {
+    color: black;
+    margin: 0;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.about_texts{
+    color: #4a4e74;
+    line-height: 1.5;
+    font-size: 12px;
+    margin: 0;
+}
